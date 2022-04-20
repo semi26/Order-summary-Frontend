@@ -109,6 +109,10 @@ p{
 	border-radius:20px 20px 0 0;
 }
 
+h4{
+	font-weight: 800;
+}
+
 .container .pricing{
 	margin: 30px auto;
 	padding: 20px;
