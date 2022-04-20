@@ -34,7 +34,7 @@ I'm not sure how to add a screen shot.
 ### Links
 
 - Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://semi26.github.io/Order-summary-Frontend/)
 
 ## My process
 
