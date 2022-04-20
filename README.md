@@ -52,11 +52,6 @@ I'm not sure how to add a screen shot.
 Some of things I learned along the way were flexbox from CSS better control of the div. I also learned how to use a var for colors I thought that was pretty cool. I learned how to make the website responsive thats always good to learn. 
 
 
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
 ```html
 <h1>Some HTML code I'm proud of</h1>
 
