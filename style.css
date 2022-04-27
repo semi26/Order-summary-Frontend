@@ -67,7 +67,7 @@ p{
     color: #fff;
     padding: 20px;
     margin-bottom: 30px;
-    width: 400px;
+    width: 275px;/*4-26-2022*/
     box-shadow: 5px 5px 8px #888888;
 }
 
@@ -88,20 +88,22 @@ p{
 
 .container{
 	background-color: #fff;
-	margin: 99px;
-	padding-bottom: 40px;
+	margin: 20px;
+	padding-bottom: 20px;
 	border-radius: 20px;
 	box-shadow: 10px 10px 10px hsl(228, 45%, 44%, 0.15);
+	width: 325px;
 }
 
 .container h1 {
     color: hsl(223, 47%, 23%);
     margin: 38px 0px 20px 0px;
     font-weight: 800;
+    font-size: 25px;
 }
 
 .container p.desc{
-	padding: 0 70px;
+	padding: 0 20px;
 }
 
 .container img.hero{
@@ -155,10 +157,18 @@ h4{
 @media (min-width: 768px) {
 	.bg_image{
 		background: url(./images/pattern-background-desktop.svg) no-repeat center/cover;
-		height: 60vh;
+		height: 50vh;
 	}
 
 	.container{
-		width: 500px;
+		width: 456px;
+	}
+
+	.container p.desc {
+		padding: 0 70px;
+	}
+
+	.btn-primary{
+		width: 350px
 	}
 }
