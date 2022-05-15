@@ -67,7 +67,7 @@ p{
     color: #fff;
     padding: 20px;
     margin-bottom: 30px;
-    width: 275px;/*4-26-2022*/
+    width: 90%;
     box-shadow: 5px 5px 8px #888888;
 }
 
@@ -92,7 +92,7 @@ p{
 	padding-bottom: 20px;
 	border-radius: 20px;
 	box-shadow: 10px 10px 10px hsl(228, 45%, 44%, 0.15);
-	width: 325px;
+	max-width: 400px;
 }
 
 .container h1 {
@@ -117,13 +117,13 @@ h4{
 
 .container .pricing{
 	margin: 30px auto;
-	padding: 20px;
-	background-color: var(--very-pale-blue);
-	width: 75%;
-	border-radius: 5px;
-	display: flex;
-	align-items: center;
-	justify-content: space-between;
+    padding: 20px;
+    background-color: var(--very-pale-blue);
+    width: 90%;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
 .container .pricing article{
@@ -157,18 +157,6 @@ h4{
 @media (min-width: 768px) {
 	.bg_image{
 		background: url(./images/pattern-background-desktop.svg) no-repeat center/cover;
-		height: 50vh;
-	}
-
-	.container{
-		width: 456px;
-	}
-
-	.container p.desc {
-		padding: 0 70px;
-	}
-
-	.btn-primary{
-		width: 350px
+		height: 65vh;
 	}
 }
