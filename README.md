@@ -6,7 +6,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 - [Overview](#overview)
   - [The challenge](The challenge was how am I going to get it to look very simaler. lol)
-  - [Screenshot](I dont know hot to take a screen shot, but I provided a snippit in the folder)
+  - [Screenshot](I dont know how to take a screen shot, but I provided a snippit in the folder)
   - [Links]("https://fonts.google.com/specimen/Red+Hat+Display#standard-styles" "https://www.w3schools.com/cssref/css3_pr_background.asp" )
 - [My process](At the beggning I didnt know where to start but once I started with the html it all came togther.)
   - [Built with](Sublime Text, I used HTML and CSS I been studying it really well.)
